@@ -57,3 +57,4 @@ OUTPUT
 
 https://github.com/Parth-007-git/Cloud-monitoring-and-Alerts/issues/1
 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/524f2ea3-a5ff-47f7-b1ac-5eb751a46ea2" />
