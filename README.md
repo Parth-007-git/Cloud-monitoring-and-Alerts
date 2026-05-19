@@ -52,3 +52,8 @@ To shift from passive monitoring to active alerting, we set up an automated thre
 
 4. Conclusion  
 We completed the task according to the CodTech Internship Task-2 guidelines. The setup allows us to see infrastructure performance in real-time through the LearnwithparthDashboard. It also protects against unexpected downtime with the Alert CPU monitoring rule.
+
+OUTPUT
+
+https://github.com/Parth-007-git/Cloud-monitoring-and-Alerts/issues/1
+
